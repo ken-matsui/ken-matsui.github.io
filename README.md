@@ -8,7 +8,7 @@
 $ gem install jekyll jekyll-sitemap jekyll-feed
 ```
 
-### Run in local
+### Run locally
 ```bash
 # Development
 $ jekyll serve --watch
