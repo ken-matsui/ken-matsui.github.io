@@ -1,0 +1,6 @@
+- #Linguistics/Phonetics/IPA/Consonants
+- [[voiceless]]
+- [[palato-alveolar]]
+- [[central]]
+- [[oral]]
+- [[fricative]]

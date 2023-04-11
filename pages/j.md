@@ -1,0 +1,6 @@
+- #Linguistics/Phonetics/IPA/Consonants
+- [[voiced]]
+- [[palatal]]
+- [[central]]
+- [[oral]]
+- [[approximant]]

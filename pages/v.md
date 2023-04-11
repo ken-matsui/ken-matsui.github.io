@@ -1,0 +1,6 @@
+- #Linguistics/Phonetics/IPA/Consonants
+- [[voiced]]
+- [[labiodental]]
+- [[central]]
+- [[oral]]
+- [[fricative]]

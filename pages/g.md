@@ -1,0 +1,6 @@
+- #Linguistics/Phonetics/IPA/Consonants
+- [[voiced]]
+- [[velar]]
+- [[central]]
+- [[oral]]
+- [[stop]]
