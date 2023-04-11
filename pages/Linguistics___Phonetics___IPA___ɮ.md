@@ -1,0 +1,7 @@
+- [[Linguistics/Phonetics/modal]]
+- [[Linguistics/Phonetics/alveolar]]
+- [[Linguistics/Phonetics/lateral]]
+- [[Linguistics/Phonetics/oral]]
+- [[Linguistics/Phonetics/fricative]]
+- Airstream Mechanism
+	- [[Linguistics/Phonetics/pulmonic]]
