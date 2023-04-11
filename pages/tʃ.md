@@ -3,4 +3,4 @@
 - [[palato-alveolar]]
 - [[central]]
 - [[oral]]
-- [[fricative]]
+- [[affricate]]

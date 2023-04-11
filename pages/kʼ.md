@@ -5,4 +5,4 @@
 - [[oral]]
 - [[stop]]
 - Airstream Mechanism
-	- [[implosive]]
+	- [[ejective]]
