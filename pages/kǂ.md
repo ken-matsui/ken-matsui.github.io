@@ -1,7 +1,7 @@
 - #Linguistics/Phonetics/IPA/Consonants
 - [[voiceless]]
 - [[palatal]]
-- [[central]]
+- [[central consonant]]
 - [[oral]]
 - [[stop]]
 - Airstream Mechanism

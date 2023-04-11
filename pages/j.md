@@ -1,6 +1,6 @@
 - #Linguistics/Phonetics/IPA/Consonants
 - [[voiced]]
 - [[palatal]]
-- [[central]]
+- [[central consonant]]
 - [[oral]]
 - [[approximant]]

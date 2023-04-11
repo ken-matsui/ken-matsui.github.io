@@ -1,0 +1,4 @@
+- #Linguistics/Phonetics/IPA/Vowels
+- [[higher-mid]]
+- [[front]]
+- [[unround]]

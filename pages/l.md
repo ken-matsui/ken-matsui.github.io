@@ -1,6 +1,6 @@
 - #Linguistics/Phonetics/IPA/Consonants
 - [[voiced]]
 - [[alveolar]]
-- [[lateral]]
+- [[lateral consonant]]
 - [[oral]]
 - [[approximant]]

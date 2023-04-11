@@ -1,6 +1,6 @@
 - #Linguistics/Phonetics/IPA/Consonants
 - [[voiceless]]
 - [[labiodental]]
-- [[central]]
+- [[central consonant]]
 - [[oral]]
 - [[fricative]]

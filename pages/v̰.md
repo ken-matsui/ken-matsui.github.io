@@ -1,7 +1,7 @@
 - #Linguistics/Phonetics/IPA/Consonants
 - [[creaky]]
 - [[labiodental]]
-- [[central]]
+- [[central consonant]]
 - [[oral]]
 - [[fricative]]
 - Airstream Mechanism

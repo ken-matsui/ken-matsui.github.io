@@ -1,6 +1,6 @@
 - #Linguistics/Phonetics/IPA/Consonants
 - [[voiced]]
 - [[velar]]
-- [[central]]
+- [[central consonant]]
 - [[oral]]
 - [[stop]]

@@ -1,7 +1,7 @@
 - #Linguistics/Phonetics/IPA/Consonants
 - [[modal]]
 - [[alveolar]]
-- [[lateral]]
+- [[lateral consonant]]
 - [[oral]]
 - [[stop]]
 - Airstream Mechanism

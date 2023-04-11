@@ -1,6 +1,6 @@
 - #Linguistics/Phonetics/IPA/Consonants
 - [[voiced]]
 - [[bilabial]]
-- [[central]]
+- [[central consonant]]
 - [[oral]]
 - [[stop]]

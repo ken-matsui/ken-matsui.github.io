@@ -1,7 +1,7 @@
 - #Linguistics/Phonetics/IPA/Consonants
 - [[creaky]]
 - [[bilabial]]
-- [[central]]
+- [[central consonant]]
 - [[oral]]
 - [[stop]]
 - Airstream Mechanism

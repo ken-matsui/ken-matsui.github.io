@@ -1,6 +1,6 @@
 - #Linguistics/Phonetics/IPA/Consonants
 - [[voiced]]
 - [[alveolar]]
-- [[central]]
+- [[central consonant]]
 - [[nasal]]
 - [[stop]]

@@ -1,6 +1,6 @@
 - #Linguistics/Phonetics/IPA/Consonants
 - [[voiceless]]
 - [[palato-alveolar]]
-- [[central]]
+- [[central consonant]]
 - [[oral]]
 - [[affricate]]
