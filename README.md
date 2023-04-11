@@ -1,3 +1,4 @@
 # ken-matsui.github.io
 
-This page just redirects to [github.com/ken-matsui](https://github.com/ken-matsui)
+[/](https://ken-matsui.github.io): redirects to [github.com/ken-matsui](https://github.com/ken-matsui)
+[/note](https://ken-matsui.github.io/note): my personal knowledge graph
