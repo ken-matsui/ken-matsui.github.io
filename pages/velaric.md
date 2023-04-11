@@ -1,1 +1,2 @@
+- #[[Linguistics/Phonetics/Airstream Mechanism]]
 - = [[lingual]]

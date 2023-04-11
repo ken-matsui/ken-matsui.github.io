@@ -1,1 +1,2 @@
 - implies [[stop]]
+- <-> [[oral]]

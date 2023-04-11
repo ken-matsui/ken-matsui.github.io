@@ -1,2 +1,2 @@
-- [[glottalic]]
-- [[ingressive]]
+- #[[Linguistics/Phonetics/Airstream Mechanism]]
+- = [[glottalic]] [[ingressive]]

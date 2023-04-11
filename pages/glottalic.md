@@ -1,0 +1,1 @@
+- #[[Linguistics/Phonetics/Airstream Mechanism]]

@@ -1,1 +1,2 @@
+- #[[Linguistics/Phonetics/place of articulation]]
 - = [[post-alveolar]]
