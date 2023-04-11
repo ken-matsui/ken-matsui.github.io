@@ -8,4 +8,4 @@
 - ### About this website
 	- My portfolio and also personal knowledge graph
 	- Deployed through [ken-matsui/ken-matsui.github.io](https://github.com/ken-matsui/ken-matsui.github.io)
-	- Disclaimer: The information contained is just my personal note and should not be taken as professional advice or as a reflection of the views of any organization. It may not be accurate, complete, or applicable to your particular situation.
+	- **Disclaimer**: The information contained is just my personal note and should not be taken as professional advice or as a reflection of the views of any organization. It may not be accurate, complete, or applicable to your particular situation.
