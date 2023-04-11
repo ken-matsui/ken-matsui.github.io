@@ -1,1 +1,0 @@
-- implies [[Linguistics/Phonetics/egressive]]
