@@ -1,2 +1,2 @@
 - #[[Linguistics/Phonetics/manner of articulation]]
-- = [[stop]]
+- = [[plosive]]
