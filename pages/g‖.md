@@ -1,0 +1,9 @@
+- #Linguistics/Phonetics/IPA/Consonants
+- [[modal]]
+- [[alveolar]]
+- [[lateral]]
+- [[oral]]
+- [[stop]]
+- Airstream Mechanism
+	- [[velaric]]
+	- [[ingressive]]

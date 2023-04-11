@@ -1,0 +1,8 @@
+- #Linguistics/Phonetics/IPA/Consonants
+- [[voiceless]]
+- [[alveolar]]
+- [[central]]
+- [[oral]]
+- [[affricate]]
+- Airstream Mechanism
+	- [[ejective]]

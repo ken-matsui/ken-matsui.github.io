@@ -1,0 +1,8 @@
+- #Linguistics/Phonetics/IPA/Consonants
+- [[breathy]]
+- [[alveolar]]
+- [[central]]
+- [[oral]]
+- [[stop]]
+- Airstream Mechanism
+	- [[pulmonic]]

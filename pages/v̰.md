@@ -1,0 +1,8 @@
+- #Linguistics/Phonetics/IPA/Consonants
+- [[creaky]]
+- [[labiodental]]
+- [[central]]
+- [[oral]]
+- [[fricative]]
+- Airstream Mechanism
+	- [[pulmonic]]
