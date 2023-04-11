@@ -36,6 +36,7 @@ jobs:
         uses: pengx17/logseq-publish@main
         with:
           theme: dark
+          trace: false
 
       - name: Create a .nojekyll file
         run: touch www/.nojekyll
