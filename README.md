@@ -1,3 +1,10 @@
-# ken-matsui.github.io
-
-My portfolio and personal knowledge graph.
+- ## Ken Matsui
+- I am an undergraduate student majoring in CS and minoring in Linguistics at the University of Washington, Seattle.
+-
+- ### Links
+	- GitHub: [ken-matsui](https://github.com/ken-matsui)
+	- LinkedIn: [kenmatsui](https://linkedin.com/in/kenmatsui)
+-
+- ### About this page
+	- My personal knowledge graph
+	- Deployed through [ken-matsui/ken-matsui.github.io](https://github.com/ken-matsui/ken-matsui.github.io)
