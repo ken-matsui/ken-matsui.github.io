@@ -1,1 +1,3 @@
-- #[[Linguistics/Phonetics/place of articulation]]
+- #LING
+- #Phonetics
+- #[[place of articulation]]

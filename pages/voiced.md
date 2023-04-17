@@ -1,1 +1,3 @@
-- #Linguistics/Phonetics/Voicing
+- #LING
+- #Phonetics
+- #Voicing

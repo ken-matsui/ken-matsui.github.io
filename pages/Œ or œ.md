@@ -1,4 +1,7 @@
-- #Linguistics/Phonetics/IPA/Vowels
+- #LING
+- #Phonetics
+- #IPA
+- #Vowels
 - [[low]] or [[lower-mid]]
 - [[front]]
 - [[round]]

@@ -1,4 +1,7 @@
-- #Linguistics/Phonetics/IPA/Consonants
+- #LING
+- #Phonetics
+- #IPA
+- #Consonants
 - [[voiced]]
 - [[alveolar]]
 - [[lateral consonant]]

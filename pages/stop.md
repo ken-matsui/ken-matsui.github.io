@@ -1,2 +1,4 @@
-- #[[Linguistics/Phonetics/manner of articulation]]
+- #LING
+- #Phonetics
+- #[[manner of articulation]]
 - = [[plosive]]

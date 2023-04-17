@@ -1,2 +1,4 @@
-- #[[Linguistics/Phonetics/Airstream Mechanism]]
+- #LING
+- #Phonetics
+- #[[Airstream Mechanism]]
 - = [[glottalic]] [[ingressive]]

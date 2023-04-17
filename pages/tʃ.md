@@ -1,4 +1,7 @@
-- #Linguistics/Phonetics/IPA/Consonants
+- #LING
+- #Phonetics
+- #IPA
+- #Consonants
 - [[voiceless]]
 - [[palato-alveolar]]
 - [[central consonant]]

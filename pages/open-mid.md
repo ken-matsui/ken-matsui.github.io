@@ -1,1 +1,3 @@
+- #LING
+- #Phonetics
 - = [[lower-mid]]
