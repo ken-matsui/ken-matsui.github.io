@@ -1,0 +1,3 @@
+- #CS
+- use [[Sorting]]
+- search tree property [[BSTs]]

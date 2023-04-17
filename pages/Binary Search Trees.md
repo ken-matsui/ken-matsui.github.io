@@ -1,0 +1,3 @@
+- #CS
+- tree property [[Binary Trees]]
+- tree property [[Search Trees]]

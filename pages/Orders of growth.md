@@ -1,0 +1,5 @@
+- #CS
+- like [[Constant Time]]
+- like [[Linear Time]]
+- like [[Logarithmic Time]]
+- like [[Quadratic Time]]

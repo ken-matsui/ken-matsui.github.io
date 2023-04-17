@@ -1,0 +1,9 @@
+- #CS
+- inspired [[Quicksort]]
+- impl [[Priority Queues]]
+- self-balancing [[LLRB Trees]]
+- impl [[Sets]]
+- unbalanced, self-balancing, & unbalanced growth is bad [[2-3 Trees]]
+- focusing on character comparison [[TSTs]]
+- impl [[Maps]]
+- inspire [[Sorting]]

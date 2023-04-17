@@ -1,0 +1,8 @@
+- #CS
+- inspired [[Quicksort]]
+- isomorphic to LLRB Trees [[Double Map]]
+- impl [[Sets]]
+- impl [[Priority Queues]]
+- [[completeness]]
+- tree property [[Search Trees]]
+- 1-1 correspondence (isomorphism) [[BSTs]]

@@ -1,0 +1,3 @@
+- #CS
+- use [[Kruskal's Algorithm]]
+- use [[Sets]]

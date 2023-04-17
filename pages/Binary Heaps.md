@@ -1,0 +1,7 @@
+- #CS
+- [[Hash Tables]]
+- include [[Min Heaps]]
+- include [[Max Heaps]]
+- tree property [[completeness]]
+- heapsort [[Comparison Sort]]
+- tree property [[Binary Trees]]
