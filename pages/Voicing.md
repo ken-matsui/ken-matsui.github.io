@@ -1,1 +1,3 @@
+- #LING
+- #Phonetics
 - = #[[Phonation]]

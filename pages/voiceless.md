@@ -1,2 +1,3 @@
--
+- #LING
+- #Phonetics
 - #Voicing

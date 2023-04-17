@@ -1,1 +1,3 @@
+- #LING
+- #Phonetics
 - <-> [[central consonant]]

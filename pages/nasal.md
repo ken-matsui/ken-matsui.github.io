@@ -1,2 +1,4 @@
+- #LING
+- #Phonetics
 - implies [[stop]]
 - <-> [[oral]]
