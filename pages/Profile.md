@@ -6,6 +6,6 @@
 	- LinkedIn: [kenmatsui](https://linkedin.com/in/kenmatsui)
 -
 ### About this website
-	- My portfolio and also personal knowledge graph.
-	- Deployed through [ken-matsui/ken-matsui.github.io](https://github.com/ken-matsui/ken-matsui.github.io).
-	- Licensed under the terms of the [MIT License](https://github.com/ken-matsui/ken-matsui.github.io/blob/main/LICENSE).
+	- Portfolio & Personal Knowledge Graph
+	- Deployed through [ken-matsui/ken-matsui.github.io](https://github.com/ken-matsui/ken-matsui.github.io)
+	- Licensed under the terms of the [MIT License](https://github.com/ken-matsui/ken-matsui.github.io/blob/main/LICENSE)
