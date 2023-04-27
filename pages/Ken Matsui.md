@@ -1,4 +1,4 @@
-- ## Ken Matsui
+- ## Profile
   I am an undergraduate student majoring in [[Computer Science]] and minoring in [[Linguistics]] at the University of Washington, Seattle.
 -
 ### Links
