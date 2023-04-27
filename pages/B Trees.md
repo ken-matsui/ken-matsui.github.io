@@ -1,2 +1,41 @@
 - #CS
 - = [[B+ Trees]]
+-
+- Properties
+	- $M - 1$ keys
+	- $L$ data items per leaf node
+- Formulae
+	- Minimum Numbers
+		- Pointers (children) in root node: $2$
+		- Pointers (children) in internal nodes: $\lceil \frac{M}{2} \rceil^{h - 1}$
+		- Pointers (children) in leaf nodes: $\lceil \frac{L}{2} \rceil$
+		-
+		- Leaf nodes: $2 \cdot \lceil \frac{M}{2} \rceil^{h - 1}$
+		- Data items: $2 \cdot \lceil \frac{M}{2} \rceil^{h - 1} \cdot \lceil \frac{L}{2} \rceil$
+	- Maximum Numbers
+		- Pointers (children) in root node: $M$
+		- Pointers (children) in internal nodes: $M^{h - 1}$
+		- Pointers (children) in leaf nodes: $L$
+		-
+		- Leaf nodes: $M^h$ ($= M \cdot M^{h - 1}$)
+		- Data items: $M^h \cdot L$
+- Time Complexity
+	- Insertion
+		- Binary Search to find the correct leaf node: $O(\log_2{M} \cdot \log_M{N})$
+			- Binary Search: $O(\log_2{M})$
+			- Number of Levels: $O(\log_M{N})$
+		- Binary Search and insert (shift data) in leaf: $O(\log_2{L} + L)$
+			- Binary Search: $O(\log_2{L})$
+			- Shift data: $O(L)$
+		- Split leaf: $O(L)$
+		- Split pointers in parents, all the way up to root: $O(M \cdot \log_M{N})$
+			- Split pointers in interior node: $O(M)$
+			- Number of Levels: $O(\log_M{N})$
+		- => $O(\log_2{M} \cdot \log_M{N} + \log_2{L} + L + L + M \cdot \log_M{N})$
+		- => $O(L + M \cdot \log_M{N})$
+	- Deletion
+		- Binary Search to find the correct leaf node: $O(\log_2{M} \cdot \log_M{N})$
+		- Binary Search and remove (shift data) in leaf: $O(\log_2{L} + L)$
+		- Merge with neighbor leaf: $O(L)$
+		- Merge all the way up to root: $O(M \cdot \log_M{N})$
+		- => $O(L + M \cdot \log_M{N})$
