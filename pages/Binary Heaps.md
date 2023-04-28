@@ -3,6 +3,18 @@
 	- deleteMin (or Max)
 		- Worst: $O(\log{N})$
 		- Best: $O(1)$
+	- delete $k$
+		- Worst: $O(\log{N})$
+			- find $k$: $O(\log{N})$
+			- update $k$ to $-\infty$ (or $\infty$): $O(1)$
+			- percolate it up: $O(\log{N})$
+		- Best: $O(1)$
+			- when it is min (or max)
+	- Min Heaps
+		- Insert $1..=N$
+			- $O(N)$
+		- Insert $N..=1$
+			- $O(N\log{N})$
 - Relations
 	- [[Hash Tables]]
 	- include [[Min Heaps]]

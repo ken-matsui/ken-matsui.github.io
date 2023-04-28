@@ -12,5 +12,13 @@
 		- $S(1) = 2$
 		- $S(h) = 1 + S(h - 2) + S(h - 1)$
 - Time Complexity
-	- find, insert, delete: $O(\log{n})$
-	- built tree: $O(n\log{n})$
+	- $O(\log{n})$
+		- Find
+		- Insert
+		- Delete
+		- Find the largest value
+		- Find the **second** largest value
+	- Build tree: $O(n\log{n})$
+	- $O(n)$
+		- Find the largest **even** value
+		- Find the largest **odd** value
