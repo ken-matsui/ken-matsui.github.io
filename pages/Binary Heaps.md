@@ -4,8 +4,8 @@
 		- Worst: $O(\log{N})$
 		- Best: $O(1)$
 	- delete $k$
-		- Worst: $O(\log{N})$
-			- find $k$: $O(\log{N})$
+		- Worst (**when we know its reference**): $O(\log{N})$
+			- no find needed
 			- update $k$ to $-\infty$ (or $\infty$): $O(1)$
 			- percolate it up: $O(\log{N})$
 		- Best: $O(1)$
