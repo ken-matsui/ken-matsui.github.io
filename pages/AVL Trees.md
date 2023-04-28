@@ -1,1 +1,16 @@
 - #CS
+- Rules
+	- Not necessarily being a complete tree
+	- Every node's value is greater than its left child and less than its right child
+		- $x.left.value < x.value < x.right.value$
+	- Every node should be balanced
+		- $-1 \le x.left.height - x.right.height \le 1$
+- Formulae
+	- Maximum nodes of height $h$: $2^h-1$
+	- Minimum nodes of height $h$:
+		- $S(0) = 1$
+		- $S(1) = 2$
+		- $S(h) = 1 + S(h - 2) + S(h - 1)$
+- Time Complexity
+	- find, insert, delete: $O(\log{n})$
+	- built tree: $O(n\log{n})$

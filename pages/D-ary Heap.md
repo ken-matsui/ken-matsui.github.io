@@ -1,0 +1,9 @@
+- #CS
+- Fomulae
+	- Maximum nodes: $\frac{d^{h+1} - 1}{d - 1}$
+	- Minimum nodes: $\frac{d^h - 1}{d}$
+	- Height: $\lceil \log_d{(d \cdot n - n + 1)} - 1 \rceil$
+- Time Complexity
+	- Insertion: $O(\log_D{N})$
+	- percolate down: $O(k \log_k{n})$
+	- percolate up: $O(\log_k{n})$

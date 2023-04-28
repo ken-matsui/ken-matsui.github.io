@@ -19,20 +19,43 @@
 		-
 		- Leaf nodes: $M^h$ ($= M \cdot M^{h - 1}$)
 		- Data items: $M^h \cdot L$
+	- The likely size of a page (a.k.a. a disk block)
+		- Page Size: $P$ bytes
+		- Key Size: $K$ bytes
+		- Pointer Size: $Ptr$ bytes
+		- Data Size: $D$ bytes per record (***includes*** the key)
+		-
+		- For an interior node: $K \cdot (M - 1) + Ptr \cdot M \le P$
+			- => Let $I$
+		- For a leaf node: $D \cdot L \le P$
+			- => Let $N$
+		- $max(I, N) \implies 2^k$ (to the closest $2^k$)
+		-
+		- e.g.
+			- Suppose $M = 21$, $L = 12$, $K = 4$, $Ptr = 8$, and $D = 20$.
+			- Then, $4 \cdot (21 - 1) + 8 \cdot 21 \le P$, $80 + 168 = 248$, so at least 248 bytes needed for an interior node.
+			- For a leaf node, at least $20 \cdot 12 = 240$ bytes needed.
+			- The page would need to be at least $max(248, 240) = 248$ bytes.
+			- The next highest power of $2$ is $256$.
+			- Therefore, $256$ bytes is the likely page size.
 - Time Complexity
 	- Insertion
 		- Binary Search to find the correct leaf node: $O(\log_2{M} \cdot \log_M{N})$
 			- Binary Search: $O(\log_2{M})$
 			- Number of Levels: $O(\log_M{N})$
-		- Binary Search and insert (shift data) in leaf: $O(\log_2{L} + L)$
-			- Binary Search: $O(\log_2{L})$
-			- Shift data: $O(L)$
+		- Binary Search in leaf: $O(\log_2{L})$
+		- Insert (shift) data in leaf: $O(L)$
 		- Split leaf: $O(L)$
 		- Split pointers in parents, all the way up to root: $O(M \cdot \log_M{N})$
 			- Split pointers in interior node: $O(M)$
 			- Number of Levels: $O(\log_M{N})$
 		- => $O(\log_2{M} \cdot \log_M{N} + \log_2{L} + L + L + M \cdot \log_M{N})$
 		- => $O(L + M \cdot \log_M{N})$
+		- Best Case
+			- Binary Search to find the correct leaf node: $O(\log_2{M} \cdot \log_M{N})$
+			- Binary Search in leaf: $O(\log_2{L})$
+			- Insert (shift) data in leaf: $O(1)$
+			- => $O(\log_2{L} + M \cdot \log_M{N})$
 	- Deletion
 		- Binary Search to find the correct leaf node: $O(\log_2{M} \cdot \log_M{N})$
 		- Binary Search and remove (shift data) in leaf: $O(\log_2{L} + L)$
