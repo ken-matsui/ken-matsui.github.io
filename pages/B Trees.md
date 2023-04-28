@@ -56,7 +56,7 @@
 			- [[Binary Search]] in leaf: $O(\log_2{L})$
 			- Insert (shift) data in leaf: $O(1)$
 			- No Splits needed
-			- => $O(\log_2{L} + M \cdot \log_M{N})$
+			- => $O(\log_M{N} + \log_2{L})$
 	- Deletion
 		- [[Binary Search]] to find the correct leaf node: $O(\log_2{M} \cdot \log_M{N})$
 		- [[Binary Search]] and remove (shift data) in leaf: $O(\log_2{L} + L)$
