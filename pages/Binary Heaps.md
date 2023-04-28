@@ -1,7 +1,13 @@
 - #CS
-- [[Hash Tables]]
-- include [[Min Heaps]]
-- include [[Max Heaps]]
-- tree property [[completeness]]
-- heapsort [[Comparison Sort]]
-- tree property [[Binary Trees]]
+- Time Complexity
+	- deleteMin (or Max)
+		- Worst: $O(\log{N})$
+		- Best: $O(1)$
+- Relations
+	- [[Hash Tables]]
+	- include [[Min Heaps]]
+	- include [[Max Heaps]]
+	- tree property [[completeness]]
+	- heapsort [[Comparison Sort]]
+	- tree property [[Binary Trees]]
+	- construction [[Floyd's build heap]]

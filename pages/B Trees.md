@@ -40,10 +40,10 @@
 			- Therefore, $256$ bytes is the likely page size.
 - Time Complexity
 	- Insertion
-		- Binary Search to find the correct leaf node: $O(\log_2{M} \cdot \log_M{N})$
-			- Binary Search: $O(\log_2{M})$
+		- [[Binary Search]] to find the correct leaf node: $O(\log_2{M} \cdot \log_M{N})$
+			- [[Binary Search]]: $O(\log_2{M})$
 			- Number of Levels: $O(\log_M{N})$
-		- Binary Search in leaf: $O(\log_2{L})$
+		- [[Binary Search]] in leaf: $O(\log_2{L})$
 		- Insert (shift) data in leaf: $O(L)$
 		- Split leaf: $O(L)$
 		- Split pointers in parents, all the way up to root: $O(M \cdot \log_M{N})$
@@ -52,13 +52,13 @@
 		- => $O(\log_2{M} \cdot \log_M{N} + \log_2{L} + L + L + M \cdot \log_M{N})$
 		- => $O(L + M \cdot \log_M{N})$
 		- Best Case
-			- Binary Search to find the correct leaf node: $O(\log_2{M} \cdot \log_M{N})$
-			- Binary Search in leaf: $O(\log_2{L})$
+			- [[Binary Search]] to find the correct leaf node: $O(\log_2{M} \cdot \log_M{N})$
+			- [[Binary Search]] in leaf: $O(\log_2{L})$
 			- Insert (shift) data in leaf: $O(1)$
 			- => $O(\log_2{L} + M \cdot \log_M{N})$
 	- Deletion
-		- Binary Search to find the correct leaf node: $O(\log_2{M} \cdot \log_M{N})$
-		- Binary Search and remove (shift data) in leaf: $O(\log_2{L} + L)$
+		- [[Binary Search]] to find the correct leaf node: $O(\log_2{M} \cdot \log_M{N})$
+		- [[Binary Search]] and remove (shift data) in leaf: $O(\log_2{L} + L)$
 		- Merge with neighbor leaf: $O(L)$
 		- Merge all the way up to root: $O(M \cdot \log_M{N})$
 		- => $O(L + M \cdot \log_M{N})$

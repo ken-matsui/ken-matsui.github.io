@@ -1,0 +1,5 @@
+- #CS
+- https://courses.cs.washington.edu/courses/cse373/18wi/files/slides/lecture-14-ann.pdf
+- Time Complexity
+	- Worst: $O(N)$
+	- Best: $O(\log{N})$

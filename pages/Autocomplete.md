@@ -1,6 +1,6 @@
 - #CS
 - use [[SequentialSearch]]
-- use [[BinarySearch]]
+- use [[Binary Search]]
 - based on [[Affordance Analysis]]
 - number of results vs. quality of results
 - based on [[Experimental Analysis]]
