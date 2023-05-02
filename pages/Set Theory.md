@@ -1,0 +1,28 @@
+- #CS ([CSE 311](https://courses.cs.washington.edu/courses/cse311/23wi/))
+-
+- $\mathbb{N}$ = Natural Numbers (non negative integers, including 0 (in this class))
+- $\mathbb{Z}$ = Integers
+- $\mathbb{Q}$ = Rational Numbers
+- $\mathbb{R}$ = Real Numbers
+-
+- union:
+	- $x \in A \cup B \equiv x \in A \vee x \in B$
+- intersection:
+	- $x \in A \cap B \equiv x \in A \wedge x \in B$
+- difference:
+	- $x \in A \setminus B \equiv x \in A \wedge x \notin B$
+- symmetric difference:
+	- $x \in A \oplus B \equiv x \in A \oplus x \in B$
+- cartesian product:
+	- $x \in A \times B \equiv x = (a, b), a \in A \text{ and } b \in B$
+- complement:
+	- $x \in \overline{A} \equiv x \notin A$ $(\mathcal{u})$
+-
+- e.g.
+	- $\{5\} \subseteq \{5\}$
+	- $5 \in \{5\}$
+	- $\varnothing \in \{\varnothing\}$
+	- $\varnothing \in \varnothing$
+	- $\varnothing \subseteq \{\varnothing\}$
+	- $\varnothing \subseteq \varnothing$
+	- $A \not\subseteq \overline{A}$

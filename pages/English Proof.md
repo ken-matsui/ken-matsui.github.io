@@ -1,0 +1,7 @@
+- #CS ([CSE 311](https://courses.cs.washington.edu/courses/cse311/23wi/))
+-
+- arbitrary (or any) is for forall ($\forall$)
+- some (or w/o) is for exists ($\exists$)
+-
+- Prove "if A, then B"
+	- -> Suppose A. We get B. So, "if A, then B"

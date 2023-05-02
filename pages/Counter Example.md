@@ -1,0 +1,3 @@
+- #CS ([CSE 311](https://courses.cs.washington.edu/courses/cse311/23wi/))
+-
+- We prove that ( A ) by counterexample. Consider ( ), then ( ) but ( ). Thus, ( A ).

@@ -1,0 +1,18 @@
+- #CS ([CSE 311](https://courses.cs.washington.edu/courses/cse311/23wi/))
+-
+- Symmetry (e.g. $\equiv (\text{mod } 3)$ on $\mathbb{Z}$)
+	- $\forall a, b \in S, [(a, b) \in R \rightarrow (b, a) \in R]$
+- Transitivity (e.g. $1$ on $\mathbb{Z}$)
+	- $\forall a, b, c \in S, [(a, b) \in R \wedge (b, c) \in R \rightarrow (a, c) \in R]$
+- Antisymmetry (e.g. $>$ on $\mathbb{Z}$)
+	- $\forall a, b \in S, [((a, b) \in R \wedge a \neq b) \rightarrow (b, a) \notin R]$
+	- $\forall a, b \in S, [((a, b) \in R \wedge (b, a) \in R) \rightarrow a = b]$
+- Reflexivity (e.g. $\geq$ on $\mathbb{Z}$)
+	- $\forall a \in S, [(a, a) \in R]$
+-
+- Equivalence
+	- Reflexive $\wedge$ Symmetric $\wedge$ Transitive
+- Partial Order
+	- Reflexive $\wedge$ Antisymmetric $\wedge$ Transitive
+- Total Order
+	- Partial Order $\wedge$ $\forall a, b \in S (a \leq b \vee b \leq a)$

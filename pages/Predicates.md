@@ -1,0 +1,29 @@
+- #CS ([CSE 311](https://courses.cs.washington.edu/courses/cse311/23wi/))
+-
+- $\forall$ every, any, all, forall, arbitraty
+	- needs $\rightarrow$
+- $\exists$ there, some
+	- need $\wedge$
+-
+- if p, q
+	- $p \rightarrow q$
+- only if p, q
+	- $q \rightarrow p$
+- iff p, q
+	- $p \leftrightarrow q$
+- unless p, q
+	- $\neg p \rightarrow q$
+- because p, q
+	- $p \rightarrow q$
+- to do p, q is necessary (or need to q)
+	- $p \rightarrow q$
+- p is sufficient for q
+	- $p \rightarrow q$
+- q is necessary for p
+	- $p \rightarrow q$
+-
+- $D(x) :=$ Domain Restriction for x
+- $P(x) :=$ x has property P
+-
+- only one
+	- ... $\wedge \forall z ((D(z) \wedge P(x, z) \rightarrow (y = z))$

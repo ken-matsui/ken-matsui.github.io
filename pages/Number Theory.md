@@ -1,0 +1,28 @@
+- #CS ([CSE 311](https://courses.cs.washington.edu/courses/cse311/23wi/))
+-
+- $a \equiv (\text{mod } m)$ ($a \% m = b \% m$)
+- $m \mid (a - b)$ or $m \mid (b - a)$
+- $\exists k (a - b = mk)$ or $\exists k (b - a = mk)$
+-
+- divides
+	- $a \mid b$ iff $\exists (k \in \mathbb{Z}) b = ka$
+-
+- An integer $p > 1$ is prime if its only positive divisor are 1 and itself.
+- gcd(a, b) is the largest integer c such that $c \mid a$ and $c \mid b$.
+-
+- $2 \mid 4$
+- $4 \nmid 2$
+- $2 \mid -2$
+- $5 \mid 0$
+- $0 \nmid 5$
+- $1 \mid 5$
+-
+- x is even iff $\exists k (x = 2k)$
+- x is odd iff $\exists k (x = 2k + 1)$
+-
+- x is rational iff $\exists a \exists b (x = \frac{a}{b}) (b \neq 0)$
+	- (have no common factors except for 1)
+	- (the gcd of $a$ and $b$ is $1$)
+-
+- $\frac{a}{b} - \frac{c}{d} = \frac{ad - bc}{bd}$
+- $2 \cdot 3^{k - 1} + 3^{k - 1} = 3 \cdot 3^{k - 1} = 3^k$
