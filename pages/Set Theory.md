@@ -1,4 +1,4 @@
-- #CS ([CSE 311](https://courses.cs.washington.edu/courses/cse311/23wi/))
+- #CS #[[CSE 311]]
 -
 - $\mathbb{N}$ = Natural Numbers (non negative integers, including 0 (in this class))
 - $\mathbb{Z}$ = Integers

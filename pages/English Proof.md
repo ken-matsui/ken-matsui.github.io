@@ -1,4 +1,4 @@
-- #CS ([CSE 311](https://courses.cs.washington.edu/courses/cse311/23wi/))
+- #CS #[[CSE 311]]
 -
 - arbitrary (or any) is for forall ($\forall$)
 - some (or w/o) is for exists ($\exists$)

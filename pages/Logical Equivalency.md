@@ -1,4 +1,4 @@
-- #CS ([CSE 311](https://courses.cs.washington.edu/courses/cse311/23wi/))
+- #CS #[[CSE 311]]
 -
 - $A \rightarrow B \equiv \neg A \vee B$
 - $A \rightarrow B \equiv \neg B \rightarrow \neg A$ (contrapositive)

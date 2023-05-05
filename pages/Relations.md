@@ -1,4 +1,4 @@
-- #CS ([CSE 311](https://courses.cs.washington.edu/courses/cse311/23wi/))
+- #CS #[[CSE 311]]
 -
 - Symmetry (e.g. $\equiv (\text{mod } 3)$ on $\mathbb{Z}$)
 	- $\forall a, b \in S, [(a, b) \in R \rightarrow (b, a) \in R]$

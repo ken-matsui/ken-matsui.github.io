@@ -1,4 +1,4 @@
-- #CS ([CSE 311](https://courses.cs.washington.edu/courses/cse311/23wi/))
+- #CS #[[CSE 311]]
 -
 - $\forall$ every, any, all, forall, arbitraty
 	- needs $\rightarrow$
@@ -27,3 +27,14 @@
 -
 - only one
 	- ... $\wedge \forall z ((D(z) \wedge P(x, z) \rightarrow (y = z))$
+	- ... $\wedge \forall z (P(x, z) \rightarrow (\neg D(z) \vee (y = z)))$
+	- ... $\wedge \forall z ((D(z) \wedge (y \neq z)) \rightarrow \neg P(x, z)))$
+	- or (no restriction)
+	- ... $\wedge \forall z (P(z) \rightarrow (y = z))$
+	- ... $\wedge \forall z ((y \neq z) \rightarrow \neg P(z))$
+-
+- Every professor has at least one student enrolled in their class.
+	- $\forall x (Prof(x) \rightarrow \exists y (Student(y) \wedge EnrolledInClass(y, x)))$
+- There's a student who is enrolled in two different professor's classes.
+	- $\exists x (Student(x) \wedge \exists y (Prof(y) \wedge EnrolledInClass(x, y)) \wedge \exists z (Prof(z) \wedge (z \neq y) \wedge EnrolledInClass(x, z)))$
+- at least two $\equiv$ two different (might be just in this case)

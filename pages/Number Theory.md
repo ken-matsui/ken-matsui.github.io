@@ -1,4 +1,4 @@
-- #CS ([CSE 311](https://courses.cs.washington.edu/courses/cse311/23wi/))
+- #CS #[[CSE 311]]
 -
 - $a \equiv (\text{mod } m)$ ($a \% m = b \% m$)
 - $m \mid (a - b)$ or $m \mid (b - a)$
