@@ -1,0 +1,7 @@
+- #ENGL
+-
+- be getting COMPARATIVE and COMPARATIVE
+- e.g.
+	- English is getting harder and harder.
+	- Houses are getting more and more expensive.
+	- Belle is getting stricter and stricter.

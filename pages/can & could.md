@@ -1,0 +1,17 @@
+- #ENGL
+-
+- Requests
+	- Can / Could + S + V
+	- e.g.) Can you pass me that book, please?
+-
+- Suggestions
+	- S + can / could + V
+	- e.g.) We could do a writing activity in today's class.
+-
+- Offer
+	- Can / Could + S + V
+	- e.g.) Can I explain the activity to you?
+-
+- Ability
+	- S + can / could + V
+	- e.g.) Alex can speak Spanish.
