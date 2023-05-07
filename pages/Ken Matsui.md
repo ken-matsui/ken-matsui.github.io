@@ -1,5 +1,5 @@
 - ## Profile
-  I am an undergraduate student majoring in [[Computer Science]] and minoring in [[Linguistics]] at the University of Washington, Seattle.
+  I am an undergraduate student majoring in [[Computer Science]] at the University of Washington, Seattle.
 -
 ### Links
 	- GitHub: [ken-matsui](https://github.com/ken-matsui)
