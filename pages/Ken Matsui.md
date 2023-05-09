@@ -1,3 +1,5 @@
+icon:: 🔥
+
 - ## Profile
   I am an undergraduate student majoring in [[Computer Science]] at the University of Washington, Seattle. Enthusiastic about Optimization and Compilers.
 -
