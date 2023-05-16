@@ -1,0 +1,3 @@
+- #LING
+- [[glottis]] is source
+- size and shape of [[vocal tract]] is filter

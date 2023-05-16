@@ -6,8 +6,8 @@
 	- LinkedIn: [kenmatsui](https://linkedin.com/in/kenmatsui)
 -
 - ### Interests (other than CS)
-	- [[English]]
-	- [[Linguistics]]
+	- [[English]] Grammar
+	- [[Linguistics]]: Syntax
 -
 ### About this website
 	- Portfolio & Personal Knowledge Graph
