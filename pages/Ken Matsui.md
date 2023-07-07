@@ -5,10 +5,6 @@
 	- GitHub: [ken-matsui](https://github.com/ken-matsui)
 	- LinkedIn: [kenmatsui](https://linkedin.com/in/kenmatsui)
 -
-- ### Interests (other than CS)
-	- [[English]]
-	- [[Linguistics]]
--
 ### About this website
 	- Portfolio & Personal Knowledge Graph
 	- Deployed through [ken-matsui/ken-matsui.github.io](https://github.com/ken-matsui/ken-matsui.github.io)
