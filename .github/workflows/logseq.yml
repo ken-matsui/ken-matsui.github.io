@@ -41,10 +41,8 @@ jobs:
       - name: Create a .nojekyll file
         run: touch www/.nojekyll
 
-      - name: Setup icons
-        run: |
-          mv assets/favicon.ico www/static/icons/logseq.ico
-          mv assets/icon.png www/static/icons/logseq.png
+      - name: Setup icon
+        run: mv assets/apple-touch-icon.png www/static/img/logo.png
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
