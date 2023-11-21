@@ -1,3 +1,0 @@
-- #CS #[[CSE 311]]
--
-- We prove that ( A ) by counterexample. Consider ( ), then ( ) but ( ). Thus, ( A ).

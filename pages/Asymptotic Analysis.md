@@ -1,4 +1,0 @@
-- #CS
-- express [[Asymptotic Notations]]
-- express [[Orders of growth]]
-- express Plain English complete sentences

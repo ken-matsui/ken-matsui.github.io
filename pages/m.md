@@ -1,9 +1,0 @@
-- #LING
-- #Phonetics
-- #IPA
-- #Consonants
-- [[voiced]]
-- [[bilabial]]
-- [[central consonant]]
-- [[nasal]]
-- [[stop]]

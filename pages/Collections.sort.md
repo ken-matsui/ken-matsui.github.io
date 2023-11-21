@@ -1,2 +1,0 @@
-- #CS
-- depend on what you're sorting: [[Merge Sort]] or [[Quicksort]]

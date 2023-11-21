@@ -1,3 +1,0 @@
-- #CS
-- use [[LinkedList]]
-- impl [[Deques]]

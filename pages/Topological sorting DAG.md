@@ -1,3 +1,0 @@
-- #CS
-- [[Shortest Path Solver]]
--

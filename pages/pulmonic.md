@@ -1,4 +1,0 @@
-- #LING
-- #Phonetics
-- #[[Airstream Mechanism]]
-- implies [[egressive]]

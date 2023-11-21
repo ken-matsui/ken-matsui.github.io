@@ -1,4 +1,0 @@
-- #[[Ken Matsui]]
-- ![icon.png](../assets/icon.png)
-- ![apple-touch-icon.png](../assets/apple-touch-icon.png)
-- ![favicon.ico](../assets/favicon.ico)

@@ -1,9 +1,0 @@
-- #LING
-- #Phonetics
-- #IPA
-- #Consonants
-- [[voiceless]]
-- [[alveolar]]
-- [[central consonant]]
-- [[oral]]
-- [[stop]]

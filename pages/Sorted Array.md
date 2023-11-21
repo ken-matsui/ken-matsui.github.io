@@ -1,5 +1,0 @@
-- #CS
-- Time Complexity
-	- Find
-		- Worst: $O(\log{N})$ ([[Binary Search]])
-		- Best: $O(1)$

@@ -1,3 +1,0 @@
-- #LING
-- #Phonetics
-- #[[manner of articulation]]

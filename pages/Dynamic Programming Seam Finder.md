@@ -1,2 +1,0 @@
-- #CS
-- impl [[Seam Finder]]

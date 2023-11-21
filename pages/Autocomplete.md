@@ -1,9 +1,0 @@
-- #CS
-- use [[SequentialSearch]]
-- use [[Binary Search]]
-- based on [[Affordance Analysis]]
-- number of results vs. quality of results
-- based on [[Experimental Analysis]]
-- [[TSTs]]
-- reductions to [[Sorting]]
-- [[Asymptotic Analysis]]

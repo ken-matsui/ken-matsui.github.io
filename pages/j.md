@@ -1,9 +1,0 @@
-- #LING
-- #Phonetics
-- #IPA
-- #Consonants
-- [[voiced]]
-- [[palatal]]
-- [[central consonant]]
-- [[oral]]
-- [[approximant]]

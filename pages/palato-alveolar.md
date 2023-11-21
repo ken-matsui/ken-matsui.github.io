@@ -1,4 +1,0 @@
-- #LING
-- #Phonetics
-- #[[place of articulation]]
-- = [[post-alveolar]]

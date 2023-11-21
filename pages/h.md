@@ -1,9 +1,0 @@
-- #LING
-- #Phonetics
-- #IPA
-- #Consonants
-- [[voiceless]]
-- [[glottal]]
-- [[central consonant]]
-- [[oral]]
-- [[fricative]]

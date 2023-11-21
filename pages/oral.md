@@ -1,3 +1,0 @@
-- #LING
-- #Phonetics
-- <-> [[nasal]]

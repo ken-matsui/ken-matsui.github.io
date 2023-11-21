@@ -1,6 +1,0 @@
-- #CS
-- impl [[Priority Queues]]
-- impl [[Sets]]
-- search tree property [[TSTs]]
-- impl [[Maps]]
-- inspire [[Sorting]]

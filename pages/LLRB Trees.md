@@ -1,7 +1,0 @@
-- #CS
-- = [[Red-black Trees]]
-- tree property [[Binary Trees]]
-- tree property [[Search Trees]]
-- impl [[Priority Queues]]
-- impl [[Sets]]
-- [[Maps]]

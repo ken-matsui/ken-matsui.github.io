@@ -1,9 +1,0 @@
-- #LING
-- #Phonetics
-- #IPA
-- #Consonants
-- [[voiced]]
-- [[palato-alveolar]]
-- [[central consonant]]
-- [[oral]]
-- [[affricate]]

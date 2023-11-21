@@ -1,8 +1,0 @@
-- #CS #[[CSE 311]]
--
-- $A \rightarrow B \equiv \neg A \vee B$
-- $A \rightarrow B \equiv \neg B \rightarrow \neg A$ (contrapositive)
-- $\neg \forall x (P(x)) \equiv \exists x (\neg P(x))$
-- $\neg \exists x (P(x)) \equiv \forall x (\neg P(x))$
-- $A \vee \neg A \equiv T$
-- $A \wedge \neg A \equiv F$

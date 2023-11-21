@@ -1,5 +1,0 @@
-- #CS
-- have [[Undirected Graph]]
-- have [[Directed Graph]]
-- can be [[Trees]]
-- [[Shortest Path Solver]]

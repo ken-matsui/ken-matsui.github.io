@@ -1,9 +1,0 @@
-- #LING
-- #Phonetics
-- #IPA
-- #Consonants
-- [[voiced]]
-- [[velar]]
-- [[central consonant]]
-- [[oral]]
-- [[stop]]

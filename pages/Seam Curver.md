@@ -1,2 +1,0 @@
-- #CS
-- use [[Seam Finder]]

@@ -1,2 +1,0 @@
-- #CS
-- assume [[Undirected Graph]]

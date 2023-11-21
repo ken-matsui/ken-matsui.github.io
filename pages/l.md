@@ -1,9 +1,0 @@
-- #LING
-- #Phonetics
-- #IPA
-- #Consonants
-- [[voiced]]
-- [[alveolar]]
-- [[lateral consonant]]
-- [[oral]]
-- [[approximant]]
