@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: "Profile"
 ---
 
 I am an undergraduate student majoring in Computer Science at the University of Washington, Seattle. Enthusiastic about Performance Engineering, Compilers, and Developer Productivity.
