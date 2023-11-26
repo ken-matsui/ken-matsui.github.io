@@ -5,9 +5,11 @@
 layout: home
 ---
 
+## Profile
+
 I am an undergraduate student majoring in Computer Science at the University of Washington, Seattle. Enthusiastic about Performance Engineering, Compilers, and Developer Productivity.
 
-### OSS Contributions
+## OSS Contributions
 
 - [GCC](https://gcc.gnu.org): The GNU Compiler Collection ([GSoC'23](https://summerofcode.withgoogle.com/programs/2023/projects/SuvI1tlp)) ([Commits](https://gcc.gnu.org/git/?p=gcc.git&a=search&h=HEAD&st=author&s=kmatsui%40gcc.gnu.org) or [Patches](https://github.com/gcc-mirror/gcc/commits?author=ken-matsui))
 - [Drogon](https://github.com/drogonframework): A modern C++ web application framework ([Commits](https://github.com/drogonframework/drogon/commits?author=ken-matsui))
