@@ -6,7 +6,7 @@ layout: home
 title: "Profile"
 ---
 
-I am an undergraduate student majoring in Computer Science at the University of Washington, Seattle. Enthusiastic about Performance Engineering, Compilers, and Developer Productivity.
+I am an undergraduate student majoring in Computer Science at the University of Washington, Seattle. Enthusiastic about Compilers, Performance Engineering, and Developer Productivity.
 
 ## OSS Contributions
 
