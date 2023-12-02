@@ -20,6 +20,7 @@ I am an undergraduate student majoring in Computer Science at the University of 
 ### Highlighted Patches
 
 {% for patch in site.data.patches %}
-- [{{ patch.name }}]({{ patch.link }})<br>
-  {{ patch.repo }}, {{ patch.date }}
+[{{ patch.name }}]({{ patch.link }})<br>
+{{ patch.repo }}, {{ patch.date }}
+
 {% endfor %}
