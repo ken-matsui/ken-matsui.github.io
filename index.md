@@ -15,3 +15,9 @@ I am an undergraduate student majoring in Computer Science at the University of 
 - [Rust](https://github.com/rust-lang): The Rust Programming Language ([Commits](https://github.com/rust-lang/rust/commits?author=ken-matsui))
 - [Drogon](https://github.com/drogonframework): A modern C++ web application framework ([Commits](https://github.com/drogonframework/drogon/commits?author=ken-matsui))
 - [MitamaCppResult](https://github.com/LoliGothick/mitama-cpp-result): A monadic C++ library for `result<T, E>` ([Commits](https://github.com/LoliGothick/mitama-cpp-result/commits?author=ken-matsui))
+
+### Highlighted Patches
+
+{% for patch in site.data.patches %}
+- [{{ patch.name }}]({{ patch.link }}) at {{ patch.repo }} on {{ patch.date }}
+{% endfor %}

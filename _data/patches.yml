@@ -1,0 +1,39 @@
+- name: 'Implement QueryBuilder'
+  repo: 'Drogon'
+  date: 'May 21, 2023'
+  link: 'https://github.com/drogonframework/drogon/commit/75b106599dc54875dc8172bed6f1eb48fd02838a'
+
+- name: 'Suggest typo corrections for preprocessor directives'
+  repo: 'LLVM'
+  date: 'May 13, 2022'
+  link: 'https://github.com/llvm/llvm-project/commit/a247ba9d15635d96225ef39c8c150c08f492e70a'
+
+- name: 'Add extension diagnostic for linemarker directives'
+  repo: 'LLVM'
+  date: 'May 11, 2022'
+  link: 'https://github.com/llvm/llvm-project/commit/786c721c2bbd2e0646e314671e010859550423bf'
+
+- name: 'Suggestion to wrap inner types using `allocator_api` in tuple'
+  repo: 'Rust'
+  date: 'Nov 23, 2021'
+  link: 'https://github.com/rust-lang/rust/commit/57494f7c75b4cdfa3cd4d586f606b0898cce4ebd'
+
+- name: 'Clarify error messages caused by re-exporting `pub(crate)` visibility to outside'
+  repo: 'Rust'
+  date: 'Nov 19, 2021'
+  link: 'https://github.com/rust-lang/rust/commit/33ab5123e2ac51e312f72e2d689aa57a8483c2ac'
+
+- name: 'Support comma operator in subscripting expressions of lambda introducer'
+  repo: 'MitamaCppResult'
+  date: 'Dec 6, 2020'
+  link: 'https://github.com/LoliGothick/mitama-cpp-result/commit/185f30d83e75e6b374607c73d8a51e999cb5da58'
+
+- name: 'Support void for mitama::result'
+  repo: 'MitamaCppResult'
+  date: 'Dec 4, 2020'
+  link: 'https://github.com/LoliGothick/mitama-cpp-result/commit/e92f2a8405613bcd1545b889240fe4efa4ca227f'
+
+- name: "Add TRY macro like the Rust's `?` operator"
+  repo: 'MitamaCppResult'
+  date: 'Dec 4, 2020'
+  link: 'https://github.com/LoliGothick/mitama-cpp-result/commit/2ba9cdaec7ff7bf4108ec38a1d770bd74f546913'
