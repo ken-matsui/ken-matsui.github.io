@@ -9,6 +9,14 @@ I am a computer science undergraduate student at the University of Washington, S
 
 {% assign maxElems = 4 %}
 
+# Projects
+
+{% for proj in site.data.projects limit: maxElems %}
+[{{ proj.name }}]({{ proj.repo }})<br>
+{{ proj.desc }}
+
+{% endfor %}
+
 # Patches ([Show All](/patches))
 
 {% for patch in site.data.patches limit: maxElems %}
