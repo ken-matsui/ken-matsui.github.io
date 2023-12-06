@@ -17,13 +17,15 @@ I am a computer science undergraduate student at the University of Washington, S
 
 {% endfor %}
 
-# Patches <sub>([Show All](/patches))</sub>
+# Patches
 
 {% for patch in site.data.patches limit: maxElems %}
 [{{ patch.name }}]({{ patch.link }})<br>
 {{ patch.repo }}, {{ patch.date }}
 
 {% endfor %}
+
+[Show All](/patches)
 
 <br>
 <em style="color: #828282;">Site Last Updated {{ site.time | date: "%B %Y" }}</em>
