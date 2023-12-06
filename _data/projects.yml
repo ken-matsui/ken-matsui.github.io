@@ -1,3 +1,7 @@
 - name: 'Poac'
   repo: 'https://github.com/poac-dev/poac'
   desc: 'A package manager and build system for C++'
+
+- name: 'MitamaCppResult'
+  repo: 'https://github.com/LoliGothick/mitama-cpp-result'
+  desc: 'A monadic C++ library for `result<T, E>`'
