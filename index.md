@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Ken Matsui
 ---
 
 I am a computer science undergraduate student at the University of Washington, Seattle.  My research interest lies in compilers, performance engineering, and developer productivity.
