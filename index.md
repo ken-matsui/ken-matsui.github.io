@@ -25,7 +25,7 @@ I am a computer science undergraduate student at the University of Washington, S
 
 {% endfor %}
 
-*[Show All](/patches)*
+*[Show All ...](/patches)*
 
 <br>
 <em style="color: #828282;">Site Last Updated {{ site.time | date: "%B %Y" }}</em>
