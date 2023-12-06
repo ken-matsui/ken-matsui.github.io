@@ -17,6 +17,8 @@ I am a computer science undergraduate student at the University of Washington, S
 
 {% endfor %}
 
+*[... Show All](/projects)*
+
 # Patches
 
 {% for patch in site.data.patches limit: maxElems %}
