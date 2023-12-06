@@ -9,7 +9,7 @@ I am a computer science undergraduate student at the University of Washington, S
 
 {% assign maxElems = 4 %}
 
-### Patches ([Show All](/patches))
+## Patches ([Show All](/patches))
 
 {% for patch in site.data.patches limit: maxElems %}
 [{{ patch.name }}]({{ patch.link }})<br>
