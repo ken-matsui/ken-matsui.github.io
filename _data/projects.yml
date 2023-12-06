@@ -2,7 +2,7 @@
   repo: 'https://github.com/poac-dev/poac'
   desc: 'A package manager and build system for C++'
 
-- name: 'LLVM'
+- name: 'LLVM / Clang'
   repo: 'https://github.com/llvm/llvm-project'
   desc: 'The LLVM Compiler Infrastructure'
 
