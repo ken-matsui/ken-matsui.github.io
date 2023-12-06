@@ -17,7 +17,7 @@ I am a computer science undergraduate student at the University of Washington, S
 
 {% endfor %}
 
-# Patches ([Show All](/patches))
+# Patches <sub>([Show All](/patches))</sub>
 
 {% for patch in site.data.patches limit: maxElems %}
 [{{ patch.name }}]({{ patch.link }})<br>
