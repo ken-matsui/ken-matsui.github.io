@@ -24,4 +24,5 @@ I am an undergraduate student majoring in computer science at the University of 
 
 {% endfor %}
 
-_Site Last Updated {{ site.time | date: "%B %Y" }}_
+<br>
+<em style="color: #828282;">Site Last Updated {{ site.time | date: "%B %Y" }}</em>
