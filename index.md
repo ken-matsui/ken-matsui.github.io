@@ -12,7 +12,7 @@ I am a computer science undergraduate student at the University of Washington, S
 # Projects
 
 {% for proj in site.data.projects limit: maxElems %}
-[{{ proj.name }}]({{ proj.repo }}) ([Commits]({{ proj.repo }}/commits?author=ken-matsui))<br>
+[{{ proj.name }}]({{ proj.repo }}) ([commits]({{ proj.repo }}/commits?author=ken-matsui))<br>
 {{ proj.desc }}
 
 {% endfor %}
