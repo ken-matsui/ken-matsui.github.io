@@ -23,6 +23,3 @@ I am an undergraduate student majoring in computer science at the University of 
 {{ patch.repo }}, {{ patch.date }}
 
 {% endfor %}
-
-<br>
-<em style="color: #828282;">Site Last Updated {{ site.time | date: "%B %Y" }}</em>
