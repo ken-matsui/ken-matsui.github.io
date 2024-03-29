@@ -1,14 +1,17 @@
 - name: 'Poac'
   repo: 'https://github.com/poac-dev/poac'
   desc: 'A package manager and build system for C++'
+  logo: 'https://raw.githubusercontent.com/poac-dev/website/main/public/icon-512x512.png'
 
 - name: 'LLVM / Clang'
   repo: 'https://github.com/llvm/llvm-project'
   desc: 'The LLVM Compiler Infrastructure'
+  logo: 'https://llvm.org/img/LLVMWyvernSmall.png'
 
 - name: 'Rust'
   repo: 'https://github.com/rust-lang/rust'
   desc: 'The Rust Programming Language'
+  logo: 'https://www.rust-lang.org/logos/rust-logo-blk.svg'
 
 - name: 'MitamaCppResult'
   repo: 'https://github.com/LoliGothick/mitama-cpp-result'
@@ -17,3 +20,4 @@
 - name: 'Drogon'
   repo: 'https://github.com/drogonframework/drogon'
   desc: 'A modern C++ web application framework'
+  logo: 'https://drogon.org/images/drogon-dragon-white.png'
