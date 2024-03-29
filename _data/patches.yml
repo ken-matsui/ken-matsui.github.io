@@ -1,4 +1,4 @@
-- name: 'Implement SemVer Version Requirement Parser'
+- name: 'Implement SemVer Requirement Parser'
   repo: 'Poac'
   date: 'Feb 2024'
   link: 'https://github.com/poac-dev/poac/blob/cd653069613aa308251fb720ad6b20a0a23b22a8/src/VersionReq.cc'
