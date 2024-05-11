@@ -1,3 +1,8 @@
+- name: 'c++: Implement __is_invocable built-in trait'
+  repo: 'GCC'
+  date: 'May 2024'
+  link: 'https://gcc.gnu.org/git/?p=gcc.git;a=commitdiff;h=7bd33955970202095738e85c4ddf161432ece099'
+
 - name: 'Implement SemVer Requirement Parser'
   repo: 'Poac'
   date: 'Feb 2024'
