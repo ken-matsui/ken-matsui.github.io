@@ -9,6 +9,7 @@ permalink: /coursework/
 * [CSE 331: Software Design and Implementation](https://courses.cs.washington.edu/courses/cse331/23wi/)
 * [CSE 332: Data Structures and Parallelism](https://courses.cs.washington.edu/courses/cse332/23sp/)
 * [CSE 333: Systems Programming](https://courses.cs.washington.edu/courses/cse333/23su/)
+* [CSE 344: Introduction to Data Management](https://courses.cs.washington.edu/courses/cse344/24su/)
 * [CSE 351: The Hardware/Software Interface](https://courses.cs.washington.edu/courses/cse351/23sp/)
 * [CSE 373: Data Structures and Algorithms](https://courses.cs.washington.edu/courses/cse373/22au/)
 * [CSE 401: Introduction to Compiler Construction](https://courses.cs.washington.edu/courses/cse401/23au/)
