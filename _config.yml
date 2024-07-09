@@ -32,6 +32,8 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
 
+umami: 2f997df6-ca9b-4a9f-b178-c11e1e0aa181
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
