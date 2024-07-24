@@ -10,6 +10,6 @@ The GNU Compiler Collection ([GSoC'23](https://summerofcode.withgoogle.com/progr
 ![No Logo](){: style="width: 2.5em; float: left; margin-right: 1em"}
   {% endif %}
 
-  [{{ proj.name }}]({{ proj.repo }}) ([commits]({{ proj.repo }}/commits?author=ken-matsui))<br>
+  [{{ proj.name }}]({{ proj.repo }}) ([commits]({{ proj.repo }}/commits?author={{ site.github_username }}))<br>
   {{ proj.desc }}
 {% endfor %}
