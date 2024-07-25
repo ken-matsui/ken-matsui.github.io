@@ -12,13 +12,13 @@ I am a computer science undergraduate student at the University of Washington, S
 
 {% include projects.md %}
 
-*[... Show All](/projects)*
+*[... See All](/projects)*
 
 # Patches
 
 {% include patches.md %}
 
-*[... Show All](/patches)*
+*[... See All](/patches)*
 
 <br>
 <em style="color: #828282;">Site Last Updated {{ site.time | date: "%B %Y" }}</em>
