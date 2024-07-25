@@ -5,6 +5,6 @@ permalink: /education/
 ---
 
 {% for edu in site.data.education %}
-  [{{ edu.name }}]({{ edu.link }})<br>
-  {{ edu.degree }}, {{ edu.date }}
+  [{{ edu.name }}]({{ edu.link }}), {{ edu.date }}<br>
+  {{ edu.degree }}
 {% endfor %}
