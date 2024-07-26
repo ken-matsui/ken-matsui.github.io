@@ -8,4 +8,4 @@ permalink: /blog/
   * [{{ item.title }}]({{ item.link }}) — {{ item.pubDate }}
 {% endfor %}
 
-[... See All](https://zenn.dev/matken)
+[... See All](https://zenn.dev/{{ site.zenn_username }})

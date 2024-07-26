@@ -6,7 +6,8 @@ class ZennFeedGenerator < Jekyll::Generator
    priority :high
 
    def generate(site)
-      feed_url = "https://zenn.dev/matken/feed"
+      zenn_username = site.config['zenn_username']
+      feed_url = "https://zenn.dev/#{zenn_username}/feed"
       feed = Feedjira.parse(URI.open(feed_url).read)
 
       site.data['zenn_feed'] = feed.entries.map do |entry|
