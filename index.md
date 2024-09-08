@@ -6,7 +6,7 @@ layout: home
 max_elems: 4
 ---
 
-I am a computer science undergraduate student at the University of Washington, Seattle.  My research interest lies in compilers, performance engineering, and developer productivity.
+Compiler/Toolchain Engineer at MediaTek.  Enthusiastic about Compilers, Performance Engineering, and Developer Productivity.
 
 # Projects
 
