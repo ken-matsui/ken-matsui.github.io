@@ -4,9 +4,9 @@
   link: 'https://gcc.gnu.org/git/?p=gcc.git;a=commitdiff;h=7bd33955970202095738e85c4ddf161432ece099'
 
 - name: 'Implement SemVer Requirement Parser'
-  repo: 'Poac'
+  repo: 'Cabin'
   date: 'Feb 2024'
-  link: 'https://github.com/poac-dev/poac/blob/cd653069613aa308251fb720ad6b20a0a23b22a8/src/VersionReq.cc'
+  link: 'https://github.com/cabinpkg/cabin/blob/cd653069613aa308251fb720ad6b20a0a23b22a8/src/VersionReq.cc'
 
 - name: 'c++: Accept the use of built-in trait identifiers'
   repo: 'GCC'
