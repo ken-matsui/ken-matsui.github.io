@@ -6,7 +6,7 @@ layout: home
 max_elems: 4
 ---
 
-Compiler Engineer at MediaTek.  Enthusiastic about Compilers, Performance Engineering, and Developer Productivity.
+Compiler/Toolchain Engineer at MediaTek.  Enthusiastic about Compilers, Performance Engineering, and Developer Productivity.
 
 # Projects
 

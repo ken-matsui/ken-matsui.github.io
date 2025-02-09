@@ -20,7 +20,7 @@
 
 title: Ken Matsui
 # email: your-email@example.com
-description: Compiler Engineer at MediaTek
+description: Compiler/Toolchain Engineer at MediaTek
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:   ken-matsui

@@ -4,7 +4,7 @@ title: Experience
 permalink: /experience/
 ---
 
-Compiler Engineer<br>
+Compiler/Toolchain Engineer<br>
 MediaTek<br>
 Sep. 2024 — Present
 
