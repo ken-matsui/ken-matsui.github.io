@@ -1,12 +1,12 @@
-- name: GCC
-  repo: https://github.com/gcc-mirror/gcc
-  desc: The GNU Compiler Collection  ([GSoC'23](https://summerofcode.withgoogle.com/programs/2023/projects/SuvI1tlp))
-  logo: https://gcc.gnu.org/img/gccegg-65.png
-
 - name: Cabin
   repo: https://github.com/cabinpkg/cabin
   desc: A package manager and build system for C++
   logo: https://avatars.githubusercontent.com/u/35998702?s=400&u=48b35d27a8a6b82766bd7947e3f431d8aeec076c&v=4
+
+- name: GCC
+  repo: https://github.com/gcc-mirror/gcc
+  desc: The GNU Compiler Collection ([GSoC'23](https://summerofcode.withgoogle.com/programs/2023/projects/SuvI1tlp))
+  logo: https://gcc.gnu.org/img/gccegg-65.png
 
 - name: LLVM / Clang
   repo: https://github.com/llvm/llvm-project
