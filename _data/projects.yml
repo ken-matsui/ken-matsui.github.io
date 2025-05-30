@@ -1,3 +1,8 @@
+- name: GCC
+  repo: https://github.com/gcc-mirror/gcc
+  desc: The GNU Compiler Collection  ([GSoC'23](https://summerofcode.withgoogle.com/programs/2023/projects/SuvI1tlp))
+  logo: https://gcc.gnu.org/img/gccegg-65.png
+
 - name: 'Cabin'
   repo: 'https://github.com/cabinpkg/cabin'
   desc: 'A package manager and build system for C++'
