@@ -1,6 +1,6 @@
 - name: Cabin
   repo: https://github.com/cabinpkg/cabin
-  desc: A package manager and build system for C++
+  desc: C++ package manager and build system
   logo: https://avatars.githubusercontent.com/u/35998702?s=400&u=48b35d27a8a6b82766bd7947e3f431d8aeec076c&v=4
 
 - name: GCC
