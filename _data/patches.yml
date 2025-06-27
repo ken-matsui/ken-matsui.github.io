@@ -1,7 +1,7 @@
 - name: 'c++: Implement __is_invocable built-in trait'
   repo: 'GCC'
   date: 'May 2024'
-  link: 'https://gcc.gnu.org/git/?p=gcc.git;a=commitdiff;h=7bd33955970202095738e85c4ddf161432ece099'
+  link: 'https://github.com/gcc-mirror/gcc/commit/7bd33955970202095738e85c4ddf161432ece099'
 
 - name: 'Implement SemVer Requirement Parser'
   repo: 'Cabin'
@@ -11,12 +11,12 @@
 - name: 'c++: Accept the use of built-in trait identifiers'
   repo: 'GCC'
   date: 'Dec 2023'
-  link: 'https://gcc.gnu.org/git/?p=gcc.git;a=commitdiff;h=df3559d951ba6572e254a1bd1ef9a34b6e543325'
+  link: 'https://github.com/gcc-mirror/gcc/commit/df3559d951ba6572e254a1bd1ef9a34b6e543325'
 
 - name: 'c-family, c++: Look up built-in traits via identifier node'
   repo: 'GCC'
   date: 'Dec 2023'
-  link: 'https://gcc.gnu.org/git/?p=gcc.git;a=commitdiff;h=400cd0c26cf86fe75b0e4d42f9976b3125bcfd43'
+  link: 'https://github.com/gcc-mirror/gcc/commit/400cd0c26cf86fe75b0e4d42f9976b3125bcfd43'
 
 - name: 'Implement QueryBuilder'
   repo: 'Drogon'
