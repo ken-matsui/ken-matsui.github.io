@@ -35,6 +35,6 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "webrick", "~> 1.9.1"
 
-gem "feedjira", "~> 3.2"
+gem "feedjira", "~> 4.0"
 
 gem "kramdown-parser-gfm", "~> 1.1"
