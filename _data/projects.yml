@@ -8,7 +8,7 @@
   desc: The GNU Compiler Collection ([GSoC'23](https://summerofcode.withgoogle.com/programs/2023/projects/SuvI1tlp))
   logo: https://gcc.gnu.org/img/gccegg-65.png
 
-- name: LLVM / Clang
+- name: LLVM
   repo: https://github.com/llvm/llvm-project
   desc: The LLVM Compiler Infrastructure
   logo: https://llvm.org/img/LLVMWyvernSmall.png
