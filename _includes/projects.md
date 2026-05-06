@@ -5,6 +5,6 @@
 ![No Logo](){: style="width: 2.5em; float: left; margin-right: 1em"}
   {% endif %}
 
-  [{{ proj.name }}]({{ proj.repo }}) ([commits](https://github.com/search?q=repo%3A{{ proj.repo | cgi_escape }}+author%3A{{ site.github_username }}&type=commits&s=committer-date&o=desc))<br>
+  [{{ proj.name }}](https://github.com/{{ proj.repo }}) ([commits](https://github.com/search?q=repo%3A{{ proj.repo | cgi_escape }}+author%3A{{ site.github_username }}&type=commits&s=committer-date&o=desc))<br>
   {{ proj.desc }}
 {% endfor %}
