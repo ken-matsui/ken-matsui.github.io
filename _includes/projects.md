@@ -1,6 +1,6 @@
 {% for proj in site.data.projects limit: page.max_elems %}
   {% if proj.logo %}
-[![{{ proj.name }} Logo]({{ proj.logo }})](https://github.com/{{ proj.repo }}){: style="width: 2.5em; float: left; margin-right: 1em; border-radius: 16%"}
+[![{{ proj.name }} Logo]({{ proj.logo }}){: style="width: 2.5em; float: left; margin-right: 1em; border-radius: 16%"}](https://github.com/{{ proj.repo }})
   {% else %}
 ![No Logo](){: style="width: 2.5em; float: left; margin-right: 1em; border-radius: 16%"}
   {% endif %}
