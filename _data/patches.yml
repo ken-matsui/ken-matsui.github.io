@@ -1,3 +1,8 @@
+- name: '[LVI] Infer ranges from mul nuw square conditions'
+  repo: 'LLVM'
+  date: 'Jul 2026'
+  link: 'https://github.com/llvm/llvm-project/commit/9b3cc3c1d466f698abb3f59353f9dc638b20ea38'
+
 - name: '[InstCombine] Turn Add into Or even when undef'
   repo: 'LLVM'
   date: 'Jul 2026'
