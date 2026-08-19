@@ -1,0 +1,96 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@import "minima";
+
+:root {
+  color-scheme: light dark;
+}
+
+// Minima 2.5 compiles its colors from Sass variables, so dark mode is a
+// plain-CSS override layer rather than a variable swap.
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #ddd;
+    background-color: #121212;
+  }
+
+  a,
+  a:visited {
+    color: #8ab4f8;
+  }
+
+  a:hover {
+    color: #ddd;
+  }
+
+  .site-header {
+    border-bottom-color: #3d3d3d;
+  }
+
+  .site-title,
+  .site-title:visited {
+    color: #ddd;
+  }
+
+  .site-nav {
+    background-color: #121212;
+    border-color: #3d3d3d;
+
+    .page-link {
+      color: #ddd;
+    }
+
+    .menu-icon > svg {
+      fill: #bbb;
+    }
+  }
+
+  .site-footer {
+    border-top-color: #3d3d3d;
+  }
+
+  blockquote {
+    border-left-color: #3d3d3d;
+  }
+
+  pre,
+  code {
+    background-color: #2b2b2b;
+    border-color: #3d3d3d;
+  }
+
+  table {
+    color: #bbb;
+    border-color: #3d3d3d;
+
+    tr:nth-child(even) {
+      background-color: #1e1e1e;
+    }
+
+    th {
+      background-color: #2a2a2a;
+      border-color: #3d3d3d;
+    }
+
+    td {
+      border-color: #3d3d3d;
+    }
+  }
+
+  // Rouge tokens whose light-theme colors are unreadable on a dark background.
+  .highlight {
+    &,
+    .highlighter-rouge & {
+      background: #2b2b2b;
+    }
+
+    .kt, .nc { color: #7ba9d6; }
+    .nf, .ne { color: #e06c75; }
+    .nt      { color: #81a2be; }
+    .ni, .ss { color: #c678dd; }
+    .gp, .nn { color: #999; }
+    .na, .no, .nv, .vc, .vg, .vi { color: #56b6c2; }
+    .s, .sb, .sc, .sd, .s2, .se, .sh, .si, .sx, .s1 { color: #ce9178; }
+  }
+}
