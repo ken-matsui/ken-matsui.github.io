@@ -29,6 +29,14 @@ zenn_username: matken
 
 # Build settings
 theme: minima
+sass:
+  # Silence Dart Sass deprecation warnings coming from Minima 2.5 itself
+  # (lighten()/darken() etc.); warnings from our own SCSS stay visible.
+  quiet_deps: true
+  # Our assets/main.scss must keep `@import "minima"` (Minima 2.5 predates
+  # @use), so silence only the import deprecation.
+  silence_deprecations:
+    - import
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
